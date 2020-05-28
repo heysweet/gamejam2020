@@ -5,6 +5,8 @@ Game Jam 2020!
 
 My setup:
 
+[Install Node Package Manager (npm)](https://www.npmjs.com/get-npm)
+
 Install [http-server](https://www.npmjs.com/package/http-server)
 
 In terminal:
